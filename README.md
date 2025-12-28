@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-I’m a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong focus on building production-ready applications.<br><br>I enjoy working on real-world problems, designing scalable architectures, and writing clean, maintainable code that simplifies deployment and long-term maintenance. My development approach prioritizes functionality, performance, and reliability, ensuring that projects are not just built—but ready for real production environments.<br><br>I actively work on:<br><br>🚀 End-to-end MERN applications<br><br>🧩 Solving production-level challenges<br><br>🛠️ Backend APIs & system integration<br><br>📦 Dockerized and deployment-friendly setups<br><br>⚙️ Optimizing workflows for scalability and stability<br><br>I believe in learning by building, improving systems iteratively, and delivering solutions that make development and deployment simpler and more efficient.<br><br>🧰 Tech Stack<br><br>Frontend: React, JavaScript, HTML, CSS, Tailwind<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Tools & DevOps: Docker, Git, GitHub, Linux<br><br>Focus Areas: Production readiness, scalability, system reliability
+I’m a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong focus on building production-ready applications.<br><br>I enjoy working on real-world problems, designing scalable architectures, and writing clean, maintainable code that simplifies deployment and long-term maintenance. My development approach prioritizes functionality, performance, and reliability, ensuring that projects are not just built—but ready for real production environments.<br><br>I actively work on:<br>
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+  alt="Animated GIF"
+  width="300"
+/>
+<br>🚀 End-to-end MERN applications<br><br>🧩 Solving production-level challenges<br><br>🛠️ Backend APIs & system integration<br><br>📦 Dockerized and deployment-friendly setups<br><br>⚙️ Optimizing workflows for scalability and stability<br><br>I believe in learning by building, improving systems iteratively, and delivering solutions that make development and deployment simpler and more efficient.<br><br>🧰 Tech Stack<br><br>Frontend: React, JavaScript, HTML, CSS, Tailwind<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Tools & DevOps: Docker, Git, GitHub, Linux<br><br>Focus Areas: Production readiness, scalability, system reliability
 
 
 ## 🌐 Socials:
