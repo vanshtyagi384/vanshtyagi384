@@ -1,4 +1,6 @@
 
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="GIF Animation">
+
 # 💫 About Me:
 I’m a Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js) with a strong focus on building production-ready applications.<br><br>I enjoy working on real-world problems, designing scalable architectures, and writing clean, maintainable code that simplifies deployment and long-term maintenance. My development approach prioritizes functionality, performance, and reliability, ensuring that projects are not just built—but ready for real production environments.<br><br>I actively work on:<br>
 <img 
